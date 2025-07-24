@@ -1,4 +1,4 @@
-"""Adaptive sampler. 2025-04-07"""
+"""Adaptive sampler. 2025-07-24"""
 import numpy as np
 from typing import Callable,Tuple
 

@@ -96,14 +96,14 @@ This thesis is organized into the following files:
 - `05_results.md` - Chapter 5
 - `06_discussion.md` - Chapter 6
 - `07_conclusion.md` - Chapter 7
-- `defense_preparation.md` - Defense Q&A and talking points
+- `defense_preparation.md` - Defense 
 
 **Supporting Materials**:
 - `assets/` - All visualizations (8 PNG files)
 - `datasets/` - Synthetic experimental data (4 CSV files)
 - `code/` - Python implementations
 
-**Total Length**: ~12,000 words, 50-60 pages formatted
+
 
 ---
 
@@ -119,8 +119,8 @@ This thesis is organized into the following files:
 
 ---
 
-**Author**: [Your Name]  
-**Institution**: [Your University]  
-**Date**: November 2024  
-**Contact**: [Your Email]  
+**Author**: FAHIL EJAZ
+**Institution**: UNIVERSITA DEGLI NAPOLI FEDERICO II 
+**Date**: November 2025
+**Contact**: ejazfahil@gmail.com
 **Repository**: https://github.com/ejazfahil/Adaptive_Probabilistic_Testing_of_DNNs_LLMs

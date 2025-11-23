@@ -86,7 +86,4 @@ This research builds on decades of survey sampling theory and recent advances in
 
 ---
 
-**Word Count**: Approximately 12,000 words across 7 chapters
-**Page Count**: 50-60 pages (formatted)
-**Figures**: 8 visualizations + tables
 **References**: 40+ citations (to be compiled in references.bib)
